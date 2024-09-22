@@ -1,7 +1,7 @@
 # React + Node JS JWT Auth Template
 This template provides a minimal setup for working with React, Node JS JWT auth with SQLite database.
 
-> [NOTE]
+> [!NOTE]
 > You will need to add more features to enhance the security and best practices.
 
 ## Features to add:
